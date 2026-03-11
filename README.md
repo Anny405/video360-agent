@@ -24,6 +24,12 @@ This project demonstrates an automatic pipeline to detect participants in a 360Â
 
 360Â° stitched meeting video.
 
+## Example Detection
+
+Below shows the automatically detected participant regions from the 360 video.
+
+![Auto Crop Debug](debug_crop_windows.jpg)
+
 ## Example Output
 
 - `person_slot0_640x900.mp4`
