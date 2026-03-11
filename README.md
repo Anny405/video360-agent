@@ -27,7 +27,7 @@ This project demonstrates an automatic pipeline to detect participants in a 360Â
 ## Example Detection
 
 Below shows the automatically detected participant regions from the 360 video.
-
+![Auto Crop Debug](crop_preview.jpg)
 ![Auto Crop Debug](debug_crop_windows.jpg)
 
 ## Example Output
