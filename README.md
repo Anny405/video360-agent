@@ -1,4 +1,4 @@
-# video360-agent
+# video360-agent 📹-💫-🎙️🔊
 
 A prototype pipeline for analyzing participant behavior in **360° meeting videos**.
 
